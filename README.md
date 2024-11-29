@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Tamema**
 - 🎓 I'm a **Senior CS Student** at **Tanta University**.
 - 🌱 I’m currently learning and exploring **Golang & Devops**
-- 🌱 I’m currently doing streaks on **[LeetCode](https://leetcode.com/hellorapio)**
+- 🌱 I’m currently doing streaks on **[LeetCode](https://leetcode.com/u/Rapio/)**
 - 💬 Ask me about **Node.js, Posgresql, React, Nextjs, MongoDB**
 
 
