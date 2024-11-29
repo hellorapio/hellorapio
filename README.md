@@ -10,6 +10,8 @@
 - ⚡ I’m currently doing streaks on **[LeetCode](https://leetcode.com/u/Rapio/)**
 - 💬 Ask me about **Node.js, Posgresql, React, Nextjs, MongoDB**
 - 👯‍♂️ I'm actively seeking collaboration on open source projects, with a focused interest in front-end React development.
+- 📫 How to reach me **abosman356@gmail.com**
+- ☕ Fun fact **A day without coffee feels incomplete!**
 
 
 <h3 align="left">Languages and Tools:</h3>
