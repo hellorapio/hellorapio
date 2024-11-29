@@ -1,7 +1,6 @@
-## Hi there 👋
-
-<!--
-**hellorapio/hellorapio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=50&pause=1000&color=000000&background==ffffff&center=true&vCenter=true&width=1200&height=300&lines=%3C+%F0%9F%91%8B+Hello%2C+World!+%2F%3E;Nice+to+see+you+%F0%9F%98%8E" alt="Typing SVG" />
+</a>
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,linux,bash,vscode,go,js,ts,postgres,mysql,mongodb,redis,prisma,nodejs,expressjs,nestjs,docker,elasticsearch,html,css,react,nextjs,tailwind,aws,azure,githubactions,nginx,cf,workers,notion&perline=10&theme=light" />
+  </a>
+</p>
+
+<!-- https://skillicons.dev/icons?i=git,linux,bash,vscode,go,js,ts,postgres,mysql,mongodb,redis,prisma,nodejs,expressjs,nestjs,docker,elasticsearch,html,css,react,nextjs,tailwind,aws,azure,githubactions,nginx,cf,workers,notion&perline=10 -->
