@@ -7,8 +7,9 @@
 - 🔭 I’m currently working on **Tamema**
 - 🎓 I'm a **Senior CS Student** at **Tanta University**.
 - 🌱 I’m currently learning and exploring **Golang & Devops**
-- 🌱 I’m currently doing streaks on **[LeetCode](https://leetcode.com/u/Rapio/)**
+- ⚡ I’m currently doing streaks on **[LeetCode](https://leetcode.com/u/Rapio/)**
 - 💬 Ask me about **Node.js, Posgresql, React, Nextjs, MongoDB**
+- 👯‍♂️ I'm actively seeking collaboration on open source projects, with a focused interest in front-end React development.
 
 
 <h3 align="left">Languages and Tools:</h3>
